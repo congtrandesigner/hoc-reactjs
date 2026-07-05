@@ -1,0 +1,8 @@
+//Bieens primary co gia @view-transition
+$primary-color: #3498db;
+h1{
+  color: $primary-color;
+}
+p{
+  color: darken($primary-color, 20%);
+}
